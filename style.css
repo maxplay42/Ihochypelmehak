@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+
+header, nav{
+    padding: 5px;
+    background-color:olivedrab;
+    color:violet;}
+.test logo{
+    border: 10px solid tomato;
+}
+h1{
+    text-align: center;
+    color: blue;
+}
+footer p{
+    background-color: red;
+    color:gold;
+}
+nav {
+    margin: 20px;
+   padding: 10px;
+   border:5px solid gray ;
+}
+nav a{
+    font-size: 24px;
+    text-decoration: none;
+    color:brown;
+    border: 3px solid red;
+    border-radius: 7px;
+    background-color:white;
+    }
+    _porupal{
+        background-color: firebrick;
+        color: royalblue;
+    }
+    
+
+}
